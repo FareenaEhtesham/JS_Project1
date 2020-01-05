@@ -17,7 +17,7 @@ body{
     <body>
         <img style="position: absolute;bottom: 0%;left:40%;height: 50%;" 
         src="./img1.png">
-<!--by default canvas size is 300px-->
+
 <canvas id="sky">
   
 </canvas>
